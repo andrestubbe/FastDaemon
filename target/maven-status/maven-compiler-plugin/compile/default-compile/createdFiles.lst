@@ -1,8 +1,0 @@
-fastdaemon\DaemonCommandHandler.class
-fastdaemon\FastDaemon$ServerBuilder.class
-fastdaemon\FastDaemonServer.class
-fastdaemon\DaemonLifecycle.class
-fastdaemon\FastDaemon.class
-fastdaemon\FastDaemonClient.class
-fastdaemon\FastDaemonProtocol.class
-fastdaemon\FastDaemon$ClientBuilder.class
